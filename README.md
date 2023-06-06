@@ -8,7 +8,7 @@ To run the Discord bot, you need to install the `discord` library. You can insta
 
 ## Setup Instructions
 
-Clone the repository: git clone https://github.com/username/repo.git
+Clone the repository: git clone https://github.com/MarioMathew/Kirat_abuse.git
 
 Note: This bot requires Python 3.7+ to run.
 
